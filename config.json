@@ -1,7 +1,7 @@
 {
-    "token":"NDc4ODE4Mzg4NjY4NTc5ODQw.XKu-KA.GD9ZHnHtOQu_rFU0bGuBHlMIcj8", 
+    "token":"DiscordBotKey", 
     "prefix":"r!",
-    "steamKey":"3B410FFD779753422BDD9FD2D517E543",
-    "path":"E:/coding/RustBotOfficial3",
-    "dblKey":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ3ODgxMTgwOTIzNTg2MTUwNCIsImJvdCI6dHJ1ZSwiaWF0IjoxNTQxNDg1MjA4fQ.YSiH87EkXSoSfbigRTxDAxLxpshDDCNclhHY-4BHbOU"
+    "steamKey":"SteamAPIKey",
+    "path":"PathToFolder",
+    "dblKey":"DiscordBotListAPIKey"
 }
