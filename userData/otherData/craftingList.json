@@ -1,0 +1,326 @@
+{"items":[
+    {"name":"timedexplosive",
+        "aliases":["c4"],
+        "realName":"Timed Explosive",
+        "workbench":"Workbench Tier 3",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/6/6c/Timed_Explosive_Charge_icon.png/revision/latest?cb=20151106061610",
+        "all_materials":[
+            {"materials":[
+                {"name":"Explosives", "value":20},
+                {"name":"Cloth", "value":5},
+                {"name":"Tech Trash", "value":2}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":2200},
+                {"name":"Charcoal", "value":3000},
+                {"name":"Metal Fragments", "value":200},
+                {"name":"Low Grade Fuel", "value":60},
+                {"name":"Cloth", "value":5},
+                {"name":"Tech Trash", "value":2}
+            ]}
+    ]},
+    {"name":"satchelcharge",
+        "aliases":["satchel"],
+        "realName":"Satchel Charge",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/9/9e/Satchel_Charge.jpeg/revision/latest?cb=20181002161723",
+        "all_materials":[
+            {"materials":[
+                {"name":"Bean Can", "value":4},
+                {"name":"Rope", "value":1},
+                {"name":"Small Stash", "value":1}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":480},
+                {"name":"Charcoal", "value":720},
+                {"name":"Metal Fragments", "value":80},
+                {"name":"Cloth", "value":10},
+                {"name":"Rope", "value":1}
+            ]}
+    ]},
+    {"name":"rifleammo",
+        "aliases":["5.56rifleammo"],
+        "realName":"5.56 Rifle Ammo",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/4/49/5.56_Rifle_Ammo_icon.png/revision/latest?cb=20150405103333",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":5}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":20},
+                {"name":"Charcoal", "value":30},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"\n**Number of Rounds**", "value":3}
+            ]}
+    ]},
+    {"name":"explosiveammo",
+        "aliases":["explosive5.56rifleammo", "explosiverifleammo"],
+        "realName":"Explosive 5.56 Rifle Ammo",
+        "workbench":"Workbench Tier 3",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/3/31/Explosive_5.56_Rifle_Ammo_icon.png/revision/latest?cb=20151106061449",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":20},
+                {"name":"Sulfur", "value":10}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":50},
+                {"name":"Charcoal", "value":60},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"hvrifleammo",
+        "aliases":["highvelocity5.56rifleammo","hv5.56rifleammo"],
+        "realName":"HV 5.56 Rifle Ammo",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/d/df/HV_5.56_Rifle_Ammo_icon.png/revision/latest?cb=20150612151932",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":20}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":40},
+                {"name":"Charcoal", "value":60},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"incendiaryrifleammo",
+        "aliases":["incendiary5.56rifleammo"],
+        "realName":"Incendiary 5.56 Rifle Ammo",
+        "workbench":"Workbench Tier 3",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/e/e1/Incendiary_5.56_Rifle_Ammo_icon.png/revision/latest?cb=20160211200254",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":20},
+                {"name":"Sulfur", "value":5},
+                {"name":"Low Grade Fuel", "value":1}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":45},
+                {"name":"Charcoal", "value":60},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Low Grade Fuel", "value":1},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"pistolbullet",
+        "aliases":["pistolbullet"],
+        "realName":"Pistol Bullet",
+        "workbench":"Workbench Tier 1",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/3/31/Explosive_5.56_Rifle_Ammo_icon.png/revision/latest?cb=20151106061449",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":5}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":20},
+                {"name":"Charcoal", "value":30},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"\n**Number of Rounds**", "value":4}
+            ]}
+    ]},
+    {"name":"hvpistolbullet",
+        "aliases":["highvelocitypistolbullet", "hvpistolammo", "highvelocitypistolammo"],
+        "realName":"HV Pistol Ammo",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/e/e5/HV_Pistol_Ammo_icon.png/revision/latest?cb=20151106061857",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":20}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":40},
+                {"name":"Charcoal", "value":60},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"\n**Number of Rounds**", "value":3}
+            ]}
+    ]},
+    {"name":"incendiarypistolbullet",
+        "aliases":["incendiarypistolammo"],
+        "realName":"Incendiary Pistol Bullet",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/3/31/Incendiary_Pistol_Bullet_icon.png/revision/latest?cb=20151106054326",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":20},
+                {"name":"Sulfur", "value":5},
+                {"name":"Low Grade Fuel", "value":1}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":25},
+                {"name":"Charcoal", "value":30},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Low Grade Fuel", "value":1},
+                {"name":"\n**Number of Rounds**", "value":3}
+            ]}
+    ]},
+    {"name":"buckshot",
+        "aliases":["12gaugebuckshot"],
+        "realName":"12 Gauge Buckshot",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/2/2f/12_Gauge_Buckshot_icon.png/revision/latest?cb=20151106061114",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":5},
+                {"name":"Gun Powder", "value":10}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":20},
+                {"name":"Charcoal", "value":30},
+                {"name":"Metal Fragments", "value":5},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"slug",
+        "aliases":["12gaugeslug"],
+        "realName":"12 Gauge Slug",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/1/1a/12_Gauge_Slug_icon.png/revision/latest?cb=20151106061838",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Gun Powder", "value":10}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":20},
+                {"name":"Charcoal", "value":30},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"incendiaryshell",
+        "aliases":["12gaugeincendiaryshell", "12gaugeincendiary"],
+        "realName":"12 Gauge Incendiary Shell",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://rustlabs.com/img/items180/ammo.shotgun.fire.png",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Fragments", "value":5},
+                {"name":"Gun Powder", "value":10},
+                {"name":"Sulfur", "value":20}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":40},
+                {"name":"Charcoal", "value":30},
+                {"name":"Metal Fragments", "value":5},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"handmadeshell",
+        "aliases":["handmade", "handmadeshell"],
+        "realName":"Handmade Shell",
+        "workbench":"No Workbench Required",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/0/0d/Handmade_Shell_icon.png/revision/latest?cb=20151106061522",
+        "all_materials":[
+            {"materials":[
+                {"name":"Stone", "value":5},
+                {"name":"Gun Powder", "value":5}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":20},
+                {"name":"Charcoal", "value":30},
+                {"name":"Stone", "value":5},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"woodenarrow",
+        "aliases":["arrow"],
+        "realName":"Wooden Arrow",
+        "workbench":"No Workbench Required",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/3/3d/Wooden_Arrow_icon.png/revision/latest?cb=20151106061615",
+        "all_materials":[
+            {"materials":[
+                {"name":"Stone", "value":10},
+                {"name":"Wood", "value":25}
+            ]},
+            {"raw_materials":[
+                {"name":"Stone", "value":10},
+                {"name":"Wood", "value":25},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"highvelocityarrow",
+        "aliases":["hvarrow"],
+        "realName":"High Velocity Arrow",
+        "workbench":"Workbench Tier 2",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/e/e5/High_Velocity_Arrow_icon.png/revision/latest?cb=20151106054350",
+        "all_materials":[
+            {"materials":[
+                {"name":"Stone", "value":15},
+                {"name":"Wood", "value":40}
+            ]},
+            {"raw_materials":[
+                {"name":"Stone", "value":15},
+                {"name":"Wood", "value":40},
+                {"name":"\n**Number of Rounds**", "value":2}
+            ]}
+    ]},
+    {"name":"rocket",
+        "aliases":["rocket"],
+        "realName":"Rocket",
+        "workbench":"Workbench Tier 3",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/9/95/Rocket_icon.png/revision/latest?cb=20151106061039",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Pipes", "value":2},
+                {"name":"Gun Powder", "value":150},
+                {"name":"Explosives", "value":10}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":1400},
+                {"name":"Charcoal", "value":1950},
+                {"name":"Metal Fragments", "value":100},
+                {"name":"Low Grade Fuel", "value":30},
+                {"name":"Metal Pipes", "value":2}
+            ]}
+        ]},
+    {"name":"highvelocityrocket",
+        "aliases":["hvrocket"],
+        "realName":"High Velocity Rocket",
+        "workbench":"Workbench Tier 3",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/f/f4/High_Velocity_Rocket_icon.png/revision/latest?cb=20151106054436",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Pipes", "value":1},
+                {"name":"Gun Powder", "value":100},
+                {"name":"Explosives", "value":2}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":420},
+                {"name":"Charcoal", "value":600},
+                {"name":"Metal Fragments", "value":20},
+                {"name":"Low Grade Fuel", "value":6},
+                {"name":"Metal Pipes", "value":1}
+            ]}
+        ]},
+    {"name":"incendiaryrocket",
+        "aliases":["incendiaryrocket"],
+        "realName":"Incendiary Rocket",
+        "workbench":"Workbench Tier 3",
+        "picture":"https://vignette.wikia.nocookie.net/play-rust/images/f/f9/Incendiary_Rocket_icon.png/revision/latest?cb=20151106061939",
+        "all_materials":[
+            {"materials":[
+                {"name":"Metal Pipes", "value":2},
+                {"name":"Gun Powder", "value":250},
+                {"name":"Low Grade Fuel", "value":250},
+                {"name":"Explosives", "value":1}
+            ]},
+            {"raw_materials":[
+                {"name":"Sulfur", "value":610},
+                {"name":"Charcoal", "value":900},
+                {"name":"Metal Fragments", "value":10},
+                {"name":"Low Grade Fuel", "value":253},
+                {"name":"Metal Pipes", "value":2}
+            ]}
+        ]}
+]}
