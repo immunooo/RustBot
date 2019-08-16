@@ -1,4 +1,4 @@
-#### RustBot is **100% free** and **100% opensource**. 
+Retired Discord bot. If you have any questions the best way to contact me is through Discord: Jojo#8710
 
 Note: All commands with "\*" next to it require a steam ID 64 to use. Example Syntax: r!kills 76561198067054205
 
