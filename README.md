@@ -2,6 +2,9 @@ Retired Discord bot. If you have any questions the best way to contact me is thr
 
 Note: All commands with "\*" next to it require a steam ID 64 to use. Example Syntax: r!kills 76561198067054205
 
+Peak Servers bot was in: 821
+Members in each server: 52,890
+
 Contributers(1):
 ----------------------
 
