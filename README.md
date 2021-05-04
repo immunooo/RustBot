@@ -1,4 +1,4 @@
-Retired Discord bot. If you have any questions the best way to contact me is through Discord: Jojo#8710
+Retired Discord bot. If you have any questions the best way to contact me is through Discord: Jojo#6195
 
 Note: All commands with "\*" next to it require a steam ID 64 to use. Example Syntax: r!kills 76561198067054205
 
@@ -9,7 +9,7 @@ Members in each server: 52,890
 Contributers(1):
 ----------------------
 
-immunooo(Jojo#8710)
+immunooo(Jojo#6195)
 
 Rust Stat Commands(6):
 ----------------------
